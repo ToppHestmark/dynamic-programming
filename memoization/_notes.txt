@@ -1,0 +1,11 @@
+Memoization tip:
+
+1. Make it work!
+* visualize the problem as a tree
+* implement that tree using recurssion, this could be a brute force solution
+* test it
+
+2. Make it efficient.
+* add a memo object
+* add a new base case to return memo values
+* store return values into the memo

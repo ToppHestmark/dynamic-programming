@@ -17,4 +17,4 @@ const fib = (n, memo = {}) => {
 console.log(fib(6));
 console.log(fib(7));
 console.log(fib(8));
-console.log(fib(50)); // Will not work witn brute force
+console.log(fib(50)); // Will not work witn brute force method
