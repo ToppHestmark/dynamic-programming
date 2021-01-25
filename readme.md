@@ -6,4 +6,5 @@ Practical Javascript problem solving patterns.
 
 - [x] fibonacci
 - [x] gridTraveler
-- [] canSum
+- [x] canSum
+- [] howSum
