@@ -8,4 +8,4 @@ Practical Javascript problem solving patterns.
 - [x] gridTraveler
 - [x] canSum
 - [x] howSum
-- [] bestSum
+- [ ] bestSum
