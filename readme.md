@@ -9,4 +9,5 @@ Practical Javascript problem solving patterns.
 - [x] canSum
 - [x] howSum
 - [x] bestSum
-- [ ] canConstruct
+- [x] canConstruct
+- [ ] countConstruct
