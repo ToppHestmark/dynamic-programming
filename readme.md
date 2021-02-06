@@ -2,7 +2,7 @@
 
 Practical Javascript problem solving patterns.
 
-## Memoization
+### Memoization
 
 - [x] fibonacci
 - [x] gridTraveler
@@ -10,4 +10,5 @@ Practical Javascript problem solving patterns.
 - [x] howSum
 - [x] bestSum
 - [x] canConstruct
-- [ ] countConstruct
+- [x] countConstruct
+- [ ] allConstruct
