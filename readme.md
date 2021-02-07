@@ -2,7 +2,7 @@
 
 Practical Javascript problem solving patterns.
 
-### Memoization
+### Memoization methods
 
 - [x] [fibonacci](./memoization/fibonacci.js)
 - [x] [gridTraveler](./memoization/gridTraveler.js)
@@ -13,7 +13,8 @@ Practical Javascript problem solving patterns.
 - [x] [countConstruct](./memoization/countConstruct.js)
 - [x] [allConstruct](./memoization/allConstruct.js)
 
-### Tabulation
+### Tabulation methods
 
 - [x] [fib](./tabulation/fib.js)
-- [ ] gridTraveler
+- [x] [gridTraveler](./tabulation/gridTraveler.js)
+- [ ] canSum
