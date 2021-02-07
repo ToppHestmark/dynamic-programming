@@ -11,4 +11,8 @@ Practical Javascript problem solving patterns.
 - [x] bestSum
 - [x] canConstruct
 - [x] countConstruct
-- [ ] allConstruct
+- [x] allConstruct
+
+### Tubulation
+
+- [ ] fib
