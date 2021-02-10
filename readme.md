@@ -19,4 +19,7 @@ Practical Javascript problem solving patterns.
 - [x] [gridTraveler](./tabulation/gridTraveler.js)
 - [x] [canSum](./tabulation/canSum.js)
 - [x] [howSum](./tabulation/howSum.js)
-- [ ] [bestSum](./tabulation/bestSum.js)
+- [x] [bestSum](./tabulation/bestSum.js)
+- [x] [canConstruct](./tabulation/canConstruct.js)
+- [x] [countConstruct](./tabulation/countConstruct.js)
+- [ ] [allConstruct](./tabulation/allConstruct.js)
