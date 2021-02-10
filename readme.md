@@ -4,7 +4,8 @@ Practical Javascript problem solving patterns.
 
 ### Memoization methods
 
-Create a temporary store for the answer before returning the final output, thic approach save a lot of time and memory.
+Create a temporary store for the answer before returning the final output, this approach save a lot of time and memory.
+The examples below solved the problems with the recurssion method.
 
 - [x] [fibonacci](./memoization/fibonacci.js)
 - [x] [gridTraveler](./memoization/gridTraveler.js)
@@ -18,6 +19,7 @@ Create a temporary store for the answer before returning the final output, thic 
 ### Tabulation methods
 
 Create a table of the target value and iterate through the table to find the possible answer/possibilities/solutions.
+Approah below may affect the efficiency due to nested for loops upon each other.
 
 - [x] [fib](./tabulation/fib.js)
 - [x] [gridTraveler](./tabulation/gridTraveler.js)
