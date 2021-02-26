@@ -1,6 +1,6 @@
 # Dynamic programming
 
-Practical Javascript problem solving patterns.
+Practical Javascript problem solving patterns explained by memoization and tabulation.
 
 ### Memoization methods
 
